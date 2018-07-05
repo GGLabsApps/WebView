@@ -1,0 +1,41 @@
+body{
+    margin: 0;
+
+}
+
+#main{
+    height: 100vw;
+}
+
+#header, footer{
+    height: 10px;
+    background: #B00B00;
+}
+
+#nav{
+    height: 10%;
+}
+
+#nav > .btn{
+    display: inline-block;
+    margin: 0px;
+    height: 100%;
+    width: 30%;
+    border-radius: 2em;
+}
+
+.red {
+    background: red;
+}
+
+.green {
+    background: green;
+}
+
+.blue {
+    background: blue;
+}
+
+#section{
+    height: 70%;
+}

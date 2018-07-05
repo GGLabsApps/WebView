@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My WebView</string>
+    <string name="downloading_image">Downloading image...\n</string>
+</resources>
